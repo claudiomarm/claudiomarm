@@ -24,6 +24,6 @@ BertRanking is a system that allows the ranking of articles based on the semanti
 Feel free to reach out for collaboration or inquiries!
 
 - Email: [claudio356@live.com](mailto:claudio356@live.com)
-- LinkedIn: [LinkedIn Profile]([link-to-your-linkedin](https://www.linkedin.com/in/claudiomar-mendes-87074979/))
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/claudiomar-mendes-87074979/)
 
 Thank you for visiting my GitHub profile!
